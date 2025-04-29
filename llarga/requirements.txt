@@ -15,3 +15,8 @@ tabulate
 torch
 langdetect 
 mtranslate 
+gensim
+nltk
+pyarrow
+scipy
+sentence-transformers
