@@ -12,3 +12,4 @@ readability-lxml
 streamlit
 streamlit-server-state
 tabulate
+torch
