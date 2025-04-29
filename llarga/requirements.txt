@@ -13,3 +13,4 @@ streamlit
 streamlit-server-state
 tabulate
 torch
+langdetect 
