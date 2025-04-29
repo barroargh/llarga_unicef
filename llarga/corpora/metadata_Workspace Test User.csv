@@ -1,0 +1,9 @@
+text_id,filepath,filename,vector_weight
+1,1.txt,output_Assumptions.xlsx,1.0
+2,2.txt,output_Desk Review.xlsx,1.0
+3,3.txt,output_Focus Group.xlsx,1.0
+4,4.txt,output_In-Depth Interviews.xlsx,1.0
+5,5.txt,output_Q&A.xlsx,1.0
+6,6.txt,output_ReadMe.xlsx,1.0
+7,7.txt,output_Survey.xlsx,1.0
+8,8.txt,output_Total.xlsx,1.0

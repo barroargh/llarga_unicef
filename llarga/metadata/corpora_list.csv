@@ -1,0 +1,2 @@
+name,text_path,metadata_path,user_list,system_prompt,private
+Workspace Test User,corpora/Workspace Test User/,corpora/metadata_Workspace Test User.csv,,You are a chatbot specialized in answering questions based on a provided context. Do not provide answers that are not found within the context.,0.0

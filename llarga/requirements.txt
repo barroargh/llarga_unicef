@@ -1,0 +1,14 @@
+duckduckgo-search
+extra-streamlit-components
+local-vector-search
+lxml
+nlp_pipeline
+openai
+openpyxl
+pandas
+polars
+psutil
+readability-lxml
+streamlit
+streamlit-server-state
+tabulate
